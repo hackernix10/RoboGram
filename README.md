@@ -35,7 +35,7 @@ This is an automation script that will log in with your Instagram account and do
 
 At this point of time I didn't find an efficient way to install this programm on Windows/Mac. That's why we will simulate Linux on your computer and then install it. But don't be afraid, it won't be too hard and you will become new interesting experience and some cool benefits as well. If I see positive feedbacks and interest I will give my best to make the installation user friendlier and simpler.
 
-1. First step is to download VirtualBox from ''' https://www.virtualbox.org/wiki/Downloads ''' 
+1. First step is to download VirtualBox from ``` https://www.virtualbox.org/wiki/Downloads ``` 
 Just choose the right version for your operating system and download it. This software makes it possible for you to simulate another operating systems like Linux, so it's just overall helpful tool on your PC.
 
 ## Installation on Linux 
