@@ -24,20 +24,22 @@ Table of Contents
 =================
 
 * [What can you do with this program?](#what-can-you-do-with-this-program?)
-* [Installation on Linux and Mac](#installation-on-linux-and-mac)
-* [Installation on Windows](#installation-on-windows)
+* [Installation on Windows and Mac](#installation-on-windows-and-mac)
+* [Installation on Linux](#installation-on-linux)
 * [Setup and start](#setup-and-start)
 
 ## What can you do with this program?
 This is an automation script that will log in with your Instagram account and do some promotion work for you. What does it exactly do? It takes hashtags that you give it, seaches for pictures marked with one of those hashtags and likes, comments them or follows their owners. You can set the number of likes, comments and follows your bot should do. You also must choose some hashtags, so that bot can seach posts with them. I would suggest you to take hashtags which describes your own interests and what your account is about. 
 
-## Installation on Linux and Mac
+## Installation on Windows and Mac
 
-## Installation on Windows
+At this point of time I didn't find an efficient way to install this programm on Windows/Mac. That's why we will simulate Linux on your computer and then install it. But don't be afraid, it won't be too hard and you will become new interesting experience and some cool benefits as well. If I see positive feedbacks and interest I will give my best to make the installation user friendlier and simpler.
+
+1. First step is to download VirtualBox from ''' https://www.virtualbox.org/wiki/Downloads ''' 
+Just choose the right version for your operating system and download it. This software makes it possible for you to simulate another operating systems like Linux, so it's just overall helpful tool on your PC.
+
+## Installation on Linux 
 
 ## Setup and start
 
----
-###### Have Fun & Feel Free to report any issues
----
 
