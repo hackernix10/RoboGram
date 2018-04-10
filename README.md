@@ -110,5 +110,10 @@ or if it doesn't work:
 ```bash
 sudo python3 quickstart.py
 ```
+
+If the program starts, loads Instagram page, but doesn't go anywhere further please check out you Google Chrome language setup. 
+If the default language of browser isn't English then follow this guide https://www.lifewire.com/change-default-languages-in-google-chrome-4103615 
+to change it to English.
+
 Now the program will be started and you can enjoy its work and of course benefits. Fill free to send me a message if you like my work or have an issue!
 

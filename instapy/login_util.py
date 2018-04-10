@@ -11,12 +11,12 @@ def login_user(browser, username, password, switch_language=True):
     # having the site on a different language
     # Might cause problems if the OS language is english
     # Commented it because of issues with login
-    if switch_language:
+    '''if switch_language:
         browser.find_element_by_xpath(
             "//footer[@class='_s5vm9']/div[@class='_g7lf5 _9z659']/nav["
             "@class='_luodr']/ul[@class='_g8wl6']/li[@class='_538w0'][12]/"
             "span[@class='_pqycz _hqmnd']/select[@class='_fsoey']/option"
-            "[text()='English']").click()
+            "[text()='English']").click()'''
     
     # Check if the first div is 'Create an Account' or 'Log In'
     login_elem = browser.find_element_by_xpath(
